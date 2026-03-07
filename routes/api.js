@@ -5,7 +5,7 @@ const crypto = require('crypto');
 const store  = require('../data/store');
 
 const ULTRAMSG = { instanceId:'instance163898', token:'lqpd96hpxg3m1wfp' };
-const OWNER_WA = '201012254383';
+const OWNER_WA = '201557454667';
 
 // ── WHATSAPP ──────────────────────────────────────────────────────────────────
 function sendWhatsAppTo(to, message) {
