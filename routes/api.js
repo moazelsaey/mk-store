@@ -7,6 +7,7 @@ const store  = require('../data/store');
 const ULTRAMSG = { instanceId:'instance163898', token:'lqpd96hpxg3m1wfp' };
 const OWNER_WA = '201557454667';
 
+
 // ── WHATSAPP ──────────────────────────────────────────────────────────────────
 function sendWhatsAppTo(to, message) {
   return new Promise((resolve, reject) => {
